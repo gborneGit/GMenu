@@ -1,0 +1,16 @@
+name: GMenu
+main: fr.greg.main.Main
+version: 1.0
+author: [Aang]
+api-version: 1.19
+depend: [Vault, Multiverse-Core]
+permissions:
+  gmenu.delay:
+    description: Bipass les delais
+    default: op
+  gmenu.reload:
+    description: Reload le serveur
+    default: op
+commands:
+  menu:
+    description: Gere les commandes du plugin GMenu
