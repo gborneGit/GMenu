@@ -17,7 +17,7 @@ Le fichier de configuration comprend plusieurs options clés pour personnaliser 
 * Configuration des options de home, y compris le prix et le monde par défaut
 * Le plugin offre également des téléportations animées pour une expérience plus immersive, et des messages personnalisés pour informer les joueurs des restrictions de téléportation. Avec le Plugin Central, les joueurs peuvent facilement naviguer entre les différents mondes du serveur, en utilisant un système convivial et intuitif qui ne nécessite pas de commandes complexes.
 
-# Configuration :
+## Configuration :
 
 * `disable_worlds` : Cette option permet de désactiver l'ouverture de la boussole pour les mondes spécifiques. Dans cet exemple, la boussole est désactivée pour le monde de l'arène.
 
