@@ -1,6 +1,3 @@
-Titre : Plugin Central pour EcoCraft Minecraft - Menu, téléportation animée et gestion de homes
-
-
 <p align="center">
 <img src="https://github.com/gborneGit/gborneGit/blob/main/EcoCraft_logo_transparent.png" width="100"/>
 </p>
